@@ -1,0 +1,60 @@
+    
+      body{
+           
+        
+      }
+
+#banner {
+  width: 100%;
+    
+}
+.principal{
+   background: #baaca1
+  padding:30px;
+}
+
+      h1{
+        text-align: center;
+        border: 10px;
+      }
+      p {
+          text-align: center;
+      
+      }
+
+    #missao {
+    font-size: 20px
+}
+
+       em strong{
+          color:red;
+      }
+
+
+    .itens {
+    font-style:italic;
+      
+    }
+
+    .beneficios {
+      background: #baaca1;
+      padding: 20px;
+    }
+
+h2 {
+  text-align:center;
+  
+}
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right:15%;
+  
+}
+
+.imgbenef {
+  width:50%;
+  
+  
+}
